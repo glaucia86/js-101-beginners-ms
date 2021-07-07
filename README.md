@@ -1,6 +1,6 @@
 # Série de Vídeos para Iniciantes em JavaScript | Introdução à JavaScript
 
-[![Screen-Shot-07-07-21-at-03-04-PM.png](https://i.postimg.cc/8kBZvnn4/Screen-Shot-07-07-21-at-03-04-PM.png)](https://postimg.cc/c6C7yTWt)
+[![C-pia-de-Tutorial-Node-js-Express-com-Docker-1.png](https://i.postimg.cc/63Ws792X/C-pia-de-Tutorial-Node-js-Express-com-Docker-1.png)](https://postimg.cc/rdPZ32Nn)
 
 Uma série de vídeos ensinando conceitos Básicos a Intermediários da linguagem mais usada do planeta: JavaScript!
 
