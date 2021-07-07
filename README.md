@@ -1,4 +1,4 @@
-# Série de Vídeos para Iniciantes em JavaScript | Introdução à JavaScript
+# Série de Vídeos para Iniciantes | Introdução à JavaScript
 
 [![C-pia-de-Tutorial-Node-js-Express-com-Docker-1.png](https://i.postimg.cc/63Ws792X/C-pia-de-Tutorial-Node-js-Express-com-Docker-1.png)](https://postimg.cc/rdPZ32Nn)
 
