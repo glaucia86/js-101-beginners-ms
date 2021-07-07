@@ -1,4 +1,4 @@
-# Série de Vídeos: Iniciantes em JavaScript - Português
+# Série de Vídeos para Iniciantes em JavaScript | Introdução à JavaScript
 
 [![Screen-Shot-07-07-21-at-03-04-PM.png](https://i.postimg.cc/8kBZvnn4/Screen-Shot-07-07-21-at-03-04-PM.png)](https://postimg.cc/c6C7yTWt)
 
