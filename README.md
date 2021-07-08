@@ -37,33 +37,41 @@ A versão em Português, foram gravadas com as respectivas Pessoas Desenvolvedor
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-34431-gllemos)**
 - **[Extensão Visual Studio Code - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-34431-gllemos)**
 
+- Node.js: https://nodejs.org
+- NVM GitHub repository: https://github.com/nvm-sh/nvm
+- nvm-windows GitHub repository: https://github.com/coreybutler/
+- Visual Studio Code: https://aka.ms/get/VSCode
+- ESLint extension for VS Code: https://aka.ms/vscode/ESLint
+- Prettier extension for VS Code: https://aka.ms/vscode/Prettier
+- ES6 code snippers extension for VS Code: https://aka.ms/vscode/ES6Snippets
+
 ## 📺 Série de Vídeos
 
 Abaixo vocês podem seguir de maneira ordenada todos os vídeos da série de JavaScript para Iniciantes através do meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**!
 
-| Vídeo Aula       | Descrição |
-| ---------------- | --------- |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
-| **[Video 01]()** | Teste     |
+| Vídeo                                                                                            | Descrição                                                                                                                          |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **[Video 01 - O que é JavaScript?](https://youtu.be/SXBNpzjusgY)**                               | Nesse vídeo darei um overview do que aprenderemos durante essa série de Vídeos                                                     |
+| **[Video 02 - Executando JavaScript: no browser ou no servidor?](https://youtu.be/Tuwo8OeDsz0)** | Nesse vídeo vamos aprender como podemos executar o JavaScript. No browser? Ou no Servidor?                                         |
+| **[Video 03 - Configurando sua caixa de ferramentas](https://youtu.be/bynF1E0Hq98)**             | Nesse vídeo vamos configurar o nosso ambiente de desenvolvimento para realizarmos as demos que serão realizadas durante essa série |
+| **[Video 04 - Criando a sua Primeira Aplicação em JavaScript](https://youtu.be/e5cEpHibGdA)**    | Nesse vídeo criaremos a nossa primeira aplicação em JavaScript, porém usando o Node.js!                                            |
+| **[Video 05 - Comentários](https://youtu.be/CPPACskCnRo)**                                       | Nesse vídeo aprenderemos a importância do uso de comentários em JavaScript                                                         |
+| **[Video 06 - Demo: Comentários]()**                                                             | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
+| **[Video 01]()**                                                                                 | Teste                                                                                                                              |
 
 ## 🏃 Próximos Passos
 
