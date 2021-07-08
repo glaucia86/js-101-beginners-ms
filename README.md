@@ -29,21 +29,19 @@ Todo o projeto foi elaborado por mim, em conjunto com os demais **[Cloud Advocat
 A versão em Português, foram gravadas com as respectivas Pessoas Desenvolvedoras da Comunidade Técnica Brasileira:
 
 - **[Glaucia Lemos - Cloud Advocate JavaScript | Microsoft](https://twitter.com/glaucia_lemos86)**
-- **[Italo - Software Developer & Microsoft MVP](https://twitter.com/italojs_)**
-- **[Diego Telles - Software Engineer & Microsoft MSLA](https://twitter.com/UnicornCoder)**
+- **[Italo - Software Developer | Microsoft MVP](https://twitter.com/italojs_)**
+- **[Diego Telles - Software Engineer | Microsoft MSLA](https://twitter.com/UnicornCoder)**
 
-## 🚀 Recursos utilizados
+## 🚀 Recursos Utilizados
 
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-34431-gllemos)**
 - **[Extensão Visual Studio Code - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-34431-gllemos)**
-
-- Node.js: https://nodejs.org
-- NVM GitHub repository: https://github.com/nvm-sh/nvm
-- nvm-windows GitHub repository: https://github.com/coreybutler/
-- Visual Studio Code: https://aka.ms/get/VSCode
-- ESLint extension for VS Code: https://aka.ms/vscode/ESLint
-- Prettier extension for VS Code: https://aka.ms/vscode/Prettier
-- ES6 code snippers extension for VS Code: https://aka.ms/vscode/ES6Snippets
+- **[Extensão Visual Studio Code - ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&WT.mc_id=javascript-34431-gllemos)**
+- **[Extensão Visual Studio Code - Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-34431-gllemos)**
+- **[Extensão Visual Studio Code - ES6 Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets&WT.mc_id=javascript-34431-gllemos)**
+- **[Node.js](https://nodejs.orgs)**
+- **[ do NVM](https://github.com/nvm-sh/nvm)**
+- **[Repositório do nvm-windows](https://github.com/coreybutler/)**
 
 ## 📺 Série de Vídeos
 
