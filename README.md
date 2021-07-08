@@ -40,7 +40,7 @@ A versão em Português, foram gravadas com as respectivas Pessoas Desenvolvedor
 - **[Extensão Visual Studio Code - Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&WT.mc_id=javascript-34431-gllemos)**
 - **[Extensão Visual Studio Code - ES6 Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets&WT.mc_id=javascript-34431-gllemos)**
 - **[Node.js](https://nodejs.orgs)**
-- **[ do NVM](https://github.com/nvm-sh/nvm)**
+- **[Repositório do NVM](https://github.com/nvm-sh/nvm)**
 - **[Repositório do nvm-windows](https://github.com/coreybutler/)**
 
 ## 📺 Série de Vídeos
