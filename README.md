@@ -65,10 +65,20 @@ Abaixo vocês podem seguir de maneira ordenada todos os vídeos da série de Jav
 | **[Video 14 - Demo: Tipos de Dados em JavaScript](https://youtu.be/qJgURXHrPH0)**                   | Nesse vídeo nós vamos fazer algumas demonstrações em códigos de como podemos trabalhar com diferentes tipos de dados com JavaScript                        |
 | **[Video 15 - Matemática em JavaScript](https://youtu.be/yyhc8Ub3WzU)**                             | Nesse vídeo vamos aprender a como realizar as principais operações matemáticas com JavaScript                                                              |
 | **[Video 16 - Demo: Matemática em JavaScript](https://youtu.be/HTtGTBxuCE8)**                       | Nesse vídeo nós vamos fazer algumas demonstrações em códigos de como podemos trabalhar com diferentes tipos de operadores matemáticos com JavaScript       |
-| **[Video 17 - ]()**                                                                                 | Em Breve                                                                                                                                                   |
-| **[Video 18 - ]()**                                                                                 | Em Breve                                                                                                                                                   |
-| **[Video 19 - ]()**                                                                                 | Em Breve                                                                                                                                                   |
-| **[Video 20 - ]()**                                                                                 | Em Breve                                                                                                                                                   |
+| **[Video 17 - Convertendo strings para números](https://youtu.be/tfzXDn1EsgU)**                     | Nesse vídeo vamos aprender a como podemos fazer conversão de dados de string para numérico em JavaScript                                                   |
+| **[Video 18 - Demo: Convertendo strings para números](https://youtu.be/XhzaY_TCW1w)**               | Nesse vídeo nós vamos fazer algumas demonstrações em códigos de como podemos trabalhar com conversão de Strings para Numericos em JavaScript               |
+| **[Video 19 - Tratamento de Erros com Try/Catch/Finally](https://youtu.be/iFXMmBexfN0)**            | Nesse vídeo aprenderemos como lidar com erros na execução dos códigos fazendo uso do famoso: try/catch/finally em JavaScript                               |
+| **[Video 20 - Demo: Tratamento de Erros com Try/Catch/Finally](https://youtu.be/ExgUZNqnAPA)**      | Nesse vídeo nós vamos fazer algumas demonstrações em códigos de como podemos trabalhar com tratamentos de erros (try/catch/finally) em JavaScript          |
+| **[Video 21 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 22 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 23 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 24 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 25 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 26 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 27 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 28 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 29 - Em Breve]()**                                                                         |                                                                                                                                                            |
+| **[Video 30 - Em Breve]()**                                                                         |                                                                                                                                                            |
 
 ## 🏃 Próximos Passos
 
@@ -84,4 +94,4 @@ Abaixo você encontrará recursos para prosseguir seus estudos depois que conclu
 
 Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/js-101-beginners-ms/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
-**(documentação em Desenvolvimento)**
+**(documentação em desenvolvimento)**
