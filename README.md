@@ -91,14 +91,12 @@ Abaixo vocês podem seguir de maneira ordenada todos os vídeos da série de Jav
 | **[Video 40 - Demo: JavaScript Object Notation (JSON)](https://youtu.be/BSnsfIzFwOI)**              | Nesse vídeo realizaremos algumas demonstrações em códigos de como podemos fazer uso do JSON (JavaScript Object Notation)                                                                                                          |
 | **[Video 41 - Objetos em JavaScript (JSON)](https://youtu.be/MGBHpBnL1TY)**                         | Dando continuidade com os estudos em relação a JSON, vamos aprender mais ainda conceitos de como podemos lidar com Objetos com JSON!                                                                                              |
 | **[Video 42 - Demo: Objetos em JavaScript (JSON)](https://youtu.be/Y9DC-v7D6aA)**                   | Nesse vídeo realizaremos algumas demonstrações em códigos de como podemos fazer uso de Objetos com JSON (JavaScript Object Notation)                                                                                              |
-| **[Video 43 - Em Breve]()**                                                                         |
-| **[Video 44 - Em Breve]()**                                                                         |
-| **[Video 45 - Em Breve]()**                                                                         |
-| **[Video 46 - Em Breve]()**                                                                         |
-| **[Video 47 - Em Breve]()**                                                                         |
-| **[Video 48 - Em Breve]()**                                                                         |
-| **[Video 49 - Em Breve]()**                                                                         |
-| **[Video 50 - Em Breve]()**                                                                         |
+| **[Video 43 - Promises para operações de longa duração](https://youtu.be/ai5G5gBPEWo)**             | Nesse vídeo vamos aprender a como lidar com Promises e porque é o mais indicado para operações de funções de longa duração em JavaScript                                                                                          |
+| **[Video 44 - Demo: Promises para operações de longa duração](https://youtu.be/5yfX4F9_jOo)**       | Nesse vídeo realizaremos algumas demonstrações em códigos de como podemos fazer uso de Promises em funções em JavaScript                                                                                                          |
+| **[Video 45 - Gerenciando Promises com async/await](https://youtu.be/zdpfyYL5OZ4)**                 | Nesse vídeo aprenderemos como podemos gerenciar promises com async e await em funções com JavaScript                                                                                                                              |
+| **[Video 46 - Demo: Gerenciando Promises com async/await](https://youtu.be/p5BSkIopY8s)**           | Nesse vídeo realizaremos algumas demonstrações em códigos de como podemos fazer uso de Funções Async/Await em JavaScript                                                                                                          |
+| **[Video 47 - Gerenciamento de Pacotes (Packages)](https://youtu.be/DZh3P2B4U28)**                  | Nesse penúltimo vídeo vamos aprender algo que vai te ajudar a seguir adiante para aprender mais sobre JavaScript/Node.js: Packages. Como podemos fazer uso de diferentes pacotes em JavaScript/Node.js                            |
+| **[Video 48 - Demo: Gerenciamento de Pacotes (Packages)](https://youtu.be/AbRgNqJbJMs)**            | Nesse vídeo realizaremos algumas demonstrações em códigos de como podemos fazer uso de Packages em JavaScript/Node.js                                                                                                             |
 
 ## 🏃 Próximos Passos
 
