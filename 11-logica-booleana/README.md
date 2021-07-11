@@ -1,8 +1,8 @@
 # Lógica Booleana
 
-At the core of any application is making decisions. You can manage branching logic in JavaScript with an `if`/`else` or `switch`/`case` statement.
+No centro de qualquer aplicação está a tomada de decisões. Você pode gerenciar a lógica de ramificação em JavaScript com uma instrução `if`/`else` ou `switch`/`case`.
 
-## Further reading
+## Leituras Adicionais
 
 - [if/else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - [switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
