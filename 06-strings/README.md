@@ -1,8 +1,8 @@
 # Strings
 
-Strings in JavaScript are collections of zero or more characters. Working with strings is one of the core skills all developers need. Fortunately, JavaScript provides a host of ways for manipulating and working with strings.
+Strings em JavaScript são coleções de zero ou mais caracteres. Trabalhar com strings é uma das habilidades básicas que todas as Pessoas Desenvolvedoras precisam saber. Felizmente, o JavaScript fornece várias maneiras de manipular e trabalhar com strings.
 
-## Further reading
+## Leituras Adicionais
 
 - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)

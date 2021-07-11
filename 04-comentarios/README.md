@@ -1,7 +1,7 @@
-# Comments
+# Comentários
 
-[Comments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Comments) give you the ability to leave notes about what your code is doing. It's also a powerful tool for leaving yourself notes, which is a wonderful for learning code!
+**[Comentários](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Comments)** permitem que você deixe notas sobre o que seu código está fazendo. E também, uma ferramenta poderosa para deixar anotações, o que é maravilhoso para aprender o código!
 
-## Further reading
+## Leituras Adicionais
 
-- [Comments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Comments)
+- [Comentários](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Comments)
