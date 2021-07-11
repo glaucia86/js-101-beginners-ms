@@ -1,4 +1,4 @@
-# Boolean logic
+# Lógica Booleana
 
 At the core of any application is making decisions. You can manage branching logic in JavaScript with an `if`/`else` or `switch`/`case` statement.
 
