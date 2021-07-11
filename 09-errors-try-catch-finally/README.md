@@ -1,7 +1,7 @@
-# Catching errors with try/catch/finally
+# Tratamento de erros com try/catch/finally
 
-Whenever your code executes there's a chance something can go wrong, especially if you're communicating with external systems. By using `try`/`catch`/`finally` you can allow your code to catch errors and properly handle them.
+Sempre que seu código é executado, há uma chance de que algo dê errado, especialmente se você estiver se comunicando com sistemas externos. Usando `try` /` catch` / `finally` você pode permitir que seu código pegue os erros e os trate apropriadamente.
 
-## Further reading
+## Leituras Adicionais
 
 - [try/catch/finally](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
