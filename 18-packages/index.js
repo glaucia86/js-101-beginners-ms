@@ -1,3 +1,10 @@
+/**
+ * file: index.js
+ * data: 10/07/2021
+ * description: arquivo responsável para ensinar uso de async/await.
+ * author: Glaucia Lemos <twitter: @glaucia_lemos86>
+ */
+
 require('dotenv').config();
 
 const express = require('express');

@@ -1,15 +1,10 @@
-/***************************************************
- * JavaScript for Beginners
- * JS101 - Objects Demo
- *
- * BASICS    : What are Objects?
- * SYNTAX    : Defining Objects
- * CREATION  : Object Literals & Constructors
- * PROPERTIES: Associated Variables
- * METHODS   : Associated Functions
- * "this"    : Associated Context
- ****************************************************/
- 
+/**
+ * file: objects-demo.js
+ * data: 10/07/2021
+ * description: arquivo responsável para ensinar uso de JSON.
+ * author: Glaucia Lemos <twitter: @glaucia_lemos86>
+ */
+
 /* START */
 
 // How can you represent real-world objects in code?
@@ -55,7 +50,6 @@ console.log("Book type:",typeof book);
 console.log("Book value:\n",book);
 */
 
-
 // Next:
 // We created objects above using OBJECT LITERALS
 // (it is literally defined and created at once)
@@ -82,26 +76,28 @@ console.log("Book1 type:",typeof book1);
 console.log("Book1 value:\n",book1);
 */
 
-
 const dataFunc = {
-    title:"1984",
-    author:"George Orwell",
-    isAvailable: true,
-    checkIn: function(){ this.isAvailable = true; },
-    checkOut: function(){ this.isAvailable = false; }
+  title: "1984",
+  author: "George Orwell",
+  isAvailable: true,
+  checkIn: function () {
+    this.isAvailable = true;
+  },
+  checkOut: function () {
+    this.isAvailable = false;
+  },
 };
 const book2 = new Object(dataFunc);
 console.log("\n--- Define book2 with data and functions");
-console.log("Book2 type:",typeof book2);
-console.log("Book2 value:\n",book2);
+console.log("Book2 type:", typeof book2);
+console.log("Book2 value:\n", book2);
 
+// Next:
+// Let's talk about PROPERTIES and METHODS
+// How to accesss them
+// How to use them
 
- // Next:
- // Let's talk about PROPERTIES and METHODS
- // How to accesss them
- // How to use them
-
- /*
+/*
  // Dot Notation
 console.log(book2.author);
 book2.author="G. Orwell";
@@ -111,7 +107,7 @@ console.log(book2);
 console.log(book2["author"]);
 book2["author"]="G. Orwell";
 console.log(book2);
- 
+
 
  // Dot Notation
  console.log(book2.isAvailable);
@@ -125,23 +121,21 @@ console.log(book2);
 
 */
 
-
- // Last:
- // Let's talk about "this"
+// Last:
+// Let's talk about "this"
 
 const bookObj = {
-     checkIn: function(){
-         return this;
-     }
- }
+  checkIn: function () {
+    return this;
+  },
+};
 console.log("\n\nthis is: ", bookObj.checkIn());
 console.log(bookObj.checkIn() === bookObj);
 
-function anotherCheckIn(){
-    return this;
+function anotherCheckIn() {
+  return this;
 }
 console.log("\n\nthis is: ", anotherCheckIn());
 console.log(anotherCheckIn() === globalThis);
-
 
 /* END */

@@ -1,3 +1,10 @@
+/**
+ * file: array_methods.js
+ * data: 10/07/2021
+ * description: arquivo responsável para ensinar uso arrays em JavaScript
+ * author: Glaucia Lemos <twitter: @glaucia_lemos86>
+ */
+
 let arr1 = ["A", true, 2];
 
 //Push and pop
@@ -18,7 +25,6 @@ console.log(arr1);
 console.log("\n********Concat********\n");
 let arr2 = ["B", false, 3];
 let newArr = arr1.concat(arr2);
-let newArr2 = arr2.concat([1,2,3]);
+let newArr2 = arr2.concat([1, 2, 3]);
 console.log(newArr);
 console.log(newArr2);
-

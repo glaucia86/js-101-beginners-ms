@@ -1,8 +1,8 @@
-# Loops
+# Laços
 
-JavaScript offers numerous ways to execute code multiple times and act upon collections of data. Fortunately, there's three key ones which will serve you well and cover most every situation you'll encounter: `for`, `for of`, and `while`.
+JavaScript oferece várias maneiras de executar código várias vezes e agir sobre coleções de dados. Felizmente, existem três principais que irão atendê-lo bem e cobrir quase todas as situações que você encontrar: ``for`, `for of` e `while`.
 
-## Further reading
+## Leituras Adicionais
 
 - [for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 - [for of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)

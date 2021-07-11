@@ -1,7 +1,7 @@
 # Arrow functions
 
-Anonymous functions, which are sometimes called arrow or fat arrow functions, allow you to create functions without a name. This can be useful when using callbacks and promises, which are common in JavaScript.
+Funções anônimas, que às vezes são chamadas de funções de seta, permitem que você crie funções sem um nome. Isso pode ser útil ao usar retornos de chamada e promessas, que são comuns em JavaScript.
 
-## Further reading
+## Leituras Adicionais
 
-- [Functions](https://developer.mozilla.org/en-US/docs/Glossary/Function)
+- [Funções](https://developer.mozilla.org/en-US/docs/Glossary/Function)

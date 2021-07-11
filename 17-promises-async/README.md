@@ -1,12 +1,12 @@
-# Asynchronous code
+# Código Assíncrono
 
-Modern app development involves communicating with other systems. These communications can take time, and can cause your application to pause unable to perform other operations.
+O desenvolvimento de aplicativos modernos envolve a comunicação com outros sistemas. Essas comunicações podem levar algum tempo e podem fazer com que seu aplicativo pare e não consiga realizar outras operações.
 
-JavaScript is able to manage long running operations through the use of **promises**. A **promise** is similar to an [IOU](https://wikipedia.org/wiki/IOU); the code is promising it will let you know when it completes and execute the function you provide. You can use promises directly to specify how you want your code to respond when a call to a remote system returns.
+JavaScript é capaz de gerenciar operações de longa duração por meio do uso de promises. Uma promessa é semelhante a um [IOU](https://wikipedia.org/wiki/IOU);; o código promete que avisará quando for concluído e executará a função fornecida. Você pode usar promises diretamente para especificar como deseja que seu código responda quando uma chamada para um sistema remoto retornar.
 
-Recently, a new pattern has emerged. Building upon promises, `async`/`await` allows you to create code which looks synchronous yet is asynchronous. This helps make code more readable while still taking allowing for better performance.
+Recentemente, surgiu um novo padrão. Com base em promises, `async`/`await` permite que você crie um código que parece síncrono, mas é assíncrono. Isso ajuda a tornar o código mais legível ao mesmo tempo que permite um melhor desempenho.
 
-## Further reading
+## Leituras Adicionais
 
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)

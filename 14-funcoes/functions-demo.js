@@ -1,18 +1,14 @@
-/***************************************************
- * JavaScript for Beginners
- * JS101 - Functions Demo
- *
- * BASICS    : What are Functions?
- * SYNTAX    : Define & invoke your functions
- * NAMING    : Conventions (valid and invalid)
- * PARAMETERS: Inputs (/ arguments)
- * RETURN    : Output (/ result)
- ****************************************************/
+/**
+ * file: functions-demo.js
+ * data: 10/07/2021
+ * description: arquivo responsável para ensinar uso funções em JavaScript
+ * author: Glaucia Lemos <twitter: @glaucia_lemos86>
+ */
 
 // 1. Function Definition
-function printHello(name){
-    console.log("Hello "+name);
-    return "name "+" hello!";
+function printHello(name) {
+  console.log("Hello " + name);
+  return "name " + " hello!";
 }
 
 // 2. Function Invocation
@@ -23,10 +19,9 @@ console.log(result);
 
 // 4. Function Parameters
 
- // 5. Function Return
+// 5. Function Return
 
-
-/** 
+/**
 // Step 1: Define function
 function printHello(){
     // execution
