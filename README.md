@@ -111,5 +111,3 @@ Abaixo você encontrará recursos para prosseguir seus estudos depois que conclu
 ## ❓ Tenho Dúvidas... O que Faço?!
 
 Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/js-101-beginners-ms/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
-**(documentação em desenvolvimento)**
