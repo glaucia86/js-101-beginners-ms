@@ -29,7 +29,7 @@ Todo o projeto foi elaborado por mim, em conjunto com os demais **[Cloud Advocat
 A versão em Português, foram gravadas com as respectivas Pessoas Desenvolvedoras da Comunidade Técnica Brasileira:
 
 - **[Glaucia Lemos - Cloud Advocate JavaScript | Microsoft](https://twitter.com/glaucia_lemos86)**
-- **[Italo - Software Developer | Microsoft MVP](https://twitter.com/italojs_)**
+- **[Italo José - Software Developer | Microsoft MVP](https://twitter.com/italojs_)**
 - **[Diego Telles - Software Engineer | Microsoft MSLA](https://twitter.com/UnicornCoder)**
 
 ## 🚀 Recursos Utilizados
